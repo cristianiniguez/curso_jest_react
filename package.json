@@ -66,5 +66,13 @@
     "moduleNameMapper": {
       "\\.(styl|css)$": "<rootDir>/src/__mocks__/styleMock.js"
     }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cristianiniguez/curso_jest_react.git"
+  },
+  "author": "cristianiniguez <felizpc1@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/cristianiniguez/curso_jest_react/issues"
   }
 }
